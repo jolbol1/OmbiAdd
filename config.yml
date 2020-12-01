@@ -1,0 +1,5 @@
+ombi:
+  url: https://ombi.domain.com
+  apikey: XXXXXXXXXXXXXXXXXXXXXXXXXXXx
+  database_path: /opt/ombi/app/Ombi.db
+
